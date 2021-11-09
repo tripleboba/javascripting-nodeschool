@@ -1,4 +1,5 @@
 const food = {  
-  types: 'only pizza'  
+  types: 'only pizza',
+  size: 's'
 };
-console.log(food.types);
+console.log(food.size);
